@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name=" 图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.374 23.358">
+  <g id="_图层_1-2" data-name=" 图层 1-2">
+    <g id="icon-5" transform="rotate(90) translate(0 -23.358)">
+      <path d="m0,11.674c0,6.448,5.227,11.684,11.674,11.684s11.7-5.236,11.7-11.684S18.137,0,11.674,0,0,5.226,0,11.674" style="fill: #000; stroke-width: 0px;"/>
+      <g style="isolation: isolate;">
+        <text transform="translate(11.55 16.088) rotate(-90)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 5.538px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">2.5</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(16.097 15.79) rotate(-90)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 5.538px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">hrs</tspan></text>
+      </g>
+      <path d="m19.507,11.678c0,4.213-3.43,7.649-7.648,7.649s-7.643-3.436-7.643-7.649c0-1.042.225-2.044.642-3.001l-.652.193.36-.662.731-.223c.039-.014.072-.026.117-.035l.362-.105.111.381c.005.005.007.012.007.016l.241.812-.359.663-.153-.516c-.321.798-.529,1.617-.529,2.477,0,3.733,3.037,6.773,6.765,6.773s6.772-3.04,6.772-6.773-3.037-6.773-6.772-6.773c-1.249,0-2.493.363-3.583,1.049-.207.129-.477.067-.607-.14-.125-.203-.067-.472.138-.603,1.237-.775,2.637-1.184,4.052-1.184,4.218,0,7.648,3.431,7.648,7.651" style="fill: #fff; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>

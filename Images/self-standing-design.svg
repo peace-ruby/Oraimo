@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.47 47.46">
+  <g id="icon-1">
+    <path d="m0,23.73c0,13.1,10.62,23.73,23.73,23.73s23.74-10.63,23.74-23.73S36.84,0,23.73,0,0,10.63,0,23.73Z" style="fill: #000; stroke-width: 0px;"/>
+    <rect x="7.076" y="23.631" width="15.21" height="6.75" style="fill: #fff; stroke-width: 0px;"/>
+    <rect x="22.66" y="9.28" width="6.75" height="17.26" style="fill: #fff; stroke-width: 0px;"/>
+    <path d="m26.04,20.22c3.75,0,6.78,3.04,6.78,6.78s-3.04,6.78-6.78,6.78-6.78-3.04-6.78-6.78,3.03-6.78,6.78-6.78Z" style="fill: #fff; stroke-width: 0px;"/>
+    <circle cx="26.04" cy="27.01" r="4.62" style="fill: #000; stroke-width: 0px;"/>
+    <g>
+      <path d="m35.14,20.75c1.21,1.78,1.91,3.94,1.91,6.25,0,6.18-5.01,11.18-11.18,11.18-3.61,0-6.82-1.71-8.86-4.36" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2.3px;"/>
+      <polygon points="14.68 32.44 17.36 32.7 20.03 32.95 18.47 35.14 16.92 37.33 15.8 34.88 14.68 32.44" style="fill: #fff; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>
